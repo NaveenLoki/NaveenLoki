@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Naveen
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Web Development Course
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me (naveenjff@gmail.com)
 
